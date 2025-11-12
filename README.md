@@ -27,7 +27,3 @@ A curated collection of free **n8n automation workflows** designed to streamline
 
 Contributions are welcome! Feel free to submit new workflows or improve existing ones.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
